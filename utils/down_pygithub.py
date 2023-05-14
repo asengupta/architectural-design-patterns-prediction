@@ -25,7 +25,7 @@ query_language = 'language:Java'
 repo_zip_url_postfix_start = '/archive/refs/heads/'
 
 # using an access token
-g = Github("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")
+g = Github("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")
 
 
 def get_query_created(start_date, end_date):
@@ -53,7 +53,7 @@ def download_repo(folder_to, repo_url, default_branch):
         if not repo_name:
             raise Exception('repo name can not be fetched')
         repo_name = uuid.uuid4().hex + repo_name
-        
+
         repo_zipfile_full_path = os.path.join(folder_to, repo_name)
         open(repo_zipfile_full_path, 'wb').write(repo_request.content)
     except Exception as e:

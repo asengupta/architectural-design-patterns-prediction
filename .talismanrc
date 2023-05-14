@@ -1,0 +1,15 @@
+fileignoreconfig:
+- filename: utils/down_pygithub.py
+  checksum: c40692a514f0b8166bb73f885c1b521b4fbd8e7ab4274829990762db36b0d4ab
+- filename: Notebooks/architectural_design_patterns.ipynb
+  checksum: dd6c0797f0ad9300eef6c4e0ad642f9612e68676ba9fcd6f050fe5d5ab53623e
+- filename: utils/down_pygithub.py
+  checksum: c40692a514f0b8166bb73f885c1b521b4fbd8e7ab4274829990762db36b0d4ab
+- filename: Notebooks/architectural_design_patterns.ipynb
+  checksum: f971b053f597ab0d84ce92775dae6af9a8484e662fcbd85837d076e647947a1c
+- filename: utils/down_pygithub.py
+  checksum: c40692a514f0b8166bb73f885c1b521b4fbd8e7ab4274829990762db36b0d4ab
+- filename: Notebooks/architectural_design_patterns.ipynb
+  checksum: e3f758c14814cabae811088b8d79ec8b9f40985805562adcbeac61f01ca2c1a1
+- filename: Notebooks/architectural_design_patterns.ipynb
+  checksum: 282eede97ee86c5630557bf4821fa8f60e0ca19c11acfe6414af4e178490eda5
