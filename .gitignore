@@ -158,5 +158,5 @@ mvp/
 .DS_Store
 mvp_ck_out/
 mvvm_ck_out/
-
+Data/ck_metrics_root/
 catboost_info/
