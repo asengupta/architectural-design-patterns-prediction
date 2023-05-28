@@ -13,3 +13,7 @@ fileignoreconfig:
   checksum: e3f758c14814cabae811088b8d79ec8b9f40985805562adcbeac61f01ca2c1a1
 - filename: Notebooks/architectural_design_patterns.ipynb
   checksum: 282eede97ee86c5630557bf4821fa8f60e0ca19c11acfe6414af4e178490eda5
+- filename: Notebooks/architectural_design_patterns.ipynb
+  checksum: 6022cae126160a74ae3c914868fd6614d99f5f07555d4f9cbeff849cc61b2836
+- filename: Notebooks/architectural_design_patterns.ipynb
+  checksum: 48b5e0f541845c572a44cd7233b5162e09acdbca76b0ffc84c19da0921ce6165
